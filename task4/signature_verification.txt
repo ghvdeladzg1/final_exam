@@ -1,0 +1,5 @@
+Bob verified the signature using Alice’s public key.
+The signature matched Alice’s key fingerprint.
+This proves that:
+1. The message was really sent by Alice (authentication).
+2. The message was not modified in transit (integrity).
